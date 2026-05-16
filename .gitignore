@@ -1,0 +1,14 @@
+# Nexus Carbon-OS: Segurança e Privacidade
+db_config.json
+*.txt
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Dashboard/Streamlit
+.streamlit/
